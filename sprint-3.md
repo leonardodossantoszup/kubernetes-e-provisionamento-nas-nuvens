@@ -1,6 +1,6 @@
 # Kubernetes e provisionamento nas nuvens
 
-## Sprint #3 - 13/08 a 06/09
+## Sprint #3 - 16/08 a 30/08
 
 - Integrantes: Leonardo Santos
 
