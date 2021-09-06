@@ -13,7 +13,7 @@
     - Divisão do material de suporte
 
 - Expectativa
-    - Entrega de todos os 11 vídeos
+    - Entrega dos vídeos com a solução das atividades
     - Entrega dos caminhos cognitivos
     - Entrega do material teórico
 
