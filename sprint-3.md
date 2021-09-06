@@ -29,10 +29,9 @@
     - Concluir a gravação do material teórico
     - Entrega caminhos cognitivos
     - Entrega questionário(s) múltipla escolha
-    - Acomodar o material no google classroom
+    - Acomodar o material no google classroom (help do Cássio)
     - Liberar o curso :)
 
 
 - Notas
     - Bate papo com Geraldo sobre questões de múltiplas escolhas
-        - Comecei a construir uma relação bacana com esses times, estão bem hypados e solicitos
