@@ -8,10 +8,8 @@
     - Nesta janela de tempo conclui a gravação da solução das atividades para servir de material de suporte ao aluno
     elas estão neste [drive](https://drive.google.com/drive/folders/1MxsLbRlQaOkP7R1syDigoMKh4g1S_Wv5).
 
-    - São 11 atividades, 7 já estão gravadas
-    
+    - São 11 atividades, 11 gravadas
     - 54 vídeos
-
     - Divisão do material de suporte
 
 - Expectativa
